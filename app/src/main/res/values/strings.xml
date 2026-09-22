@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Flixster+</string>
+    <string name="header_trending_movies">Trending Movies This Week</string>
+    <string name="header_popular_tv">Popular TV Shows</string>
+    <string name="subtitle_browse">Browse what everyone is watching</string>
+    <string name="label_poster">Poster image</string>
+    <string name="label_backdrop">Backdrop image</string>
+    <string name="label_overview">Overview</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_votes">Votes</string>
+    <string name="label_popularity">Popularity</string>
+    <string name="label_released">Released</string>
+    <string name="label_first_aired">First aired</string>
+    <string name="label_language">Language</string>
+    <string name="kind_movie">MOVIE</string>
+    <string name="kind_tv">TV SERIES</string>
+    <string name="value_unknown">Unknown</string>
+    <string name="value_no_overview">No overview available for this title yet.</string>
+    <string name="action_retry">Try again</string>
+    <string name="action_back">Back</string>
+    <string name="error_network">Could not load data. Check your internet connection and try again.</string>
+</resources>
