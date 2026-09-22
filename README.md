@@ -54,11 +54,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-
-> Record this with the Android Studio screen recorder (Running Devices → camera icon),
-> then convert to a GIF, drop `walkthrough.gif` in the repo root, and push.
-> GIF created with [ScreenToGif](https://www.screentogif.com/) / [Kap](https://getkap.co/).
-
+▶️ **Watch the walkthrough:** [YouTube Shorts](https://youtube.com/shorts/XVtLeaydjts)
 ## Notes
 
 Things I worked through while building this:
