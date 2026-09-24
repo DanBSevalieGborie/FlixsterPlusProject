@@ -9,7 +9,26 @@ with information that isn't shown on the main screen.
 
 Time spent: **6** hours spent in total
 
-## Required Features
+## Required Features - Part 1
+ 
+The following **required** functionality is completed:
+ 
+- [x] **Make a request to The Movie Database API's `now_playing` endpoint to get a list of current movies**
+- [x] **Parse through JSON data and implement a RecyclerView to display all movies**
+- [x] **Use Glide to load and display movie poster images**
+## Optional Features
+ 
+The following **optional** features are implemented:
+ 
+- [X] **Improve and customize the user interface through styling and coloring**
+- [X] **Implement orientation responsivity**
+  - [X] App should neatly arrange data in both landscape and portrait mode
+- [X] **Implement Glide to display placeholder graphics during loading**
+  - Note: this feature is difficult to capture in a GIF without throttling internet speeds. Instead, include an additional screencap of your Glide code implementing the feature. (<10 lines of code)
+The following **additional** features are implemented:
+ 
+
+## Required Features - Part 2
 
 The following **required** functionality is completed:
 
@@ -54,7 +73,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-▶️ **Watch the walkthrough:** [YouTube Shorts](https://youtube.com/shorts/XVtLeaydjts)
+**Watch the walkthrough:** [YouTube Shorts](https://studio.youtube.com/video/N55cltQ2F6g/edit) - Part 1
+**Watch the walkthrough:** [YouTube Shorts](https://youtube.com/shorts/XVtLeaydjts) - Part 2 
 ## Notes
 
 Things I worked through while building this:
